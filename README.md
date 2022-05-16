@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rongachoka
 - 👀 I’m interested in Financial technologies as well as programming
-- 🌱 I’m currently learning Python on Udemy, then take a course on ML / AI
+- 🌱 I’m currently learning Python on Udemy as well as the Harvard CS50x course on EDx, then take a course on ML / AI
 - 💞️ I’m looking to collaborate on beginner / intermediate python projects
 - 📫 How to reach me (rongachoka.rw@gmail.com)
 
