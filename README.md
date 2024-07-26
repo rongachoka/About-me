@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rongachoka
-- 👀 I’m interested in Financial technologies as well as programming
-- 🌱 I’m currently learning Python on Udemy as well as the Harvard CS50x course on EDx, then take a course on ML / AI
-- 💞️ I’m looking to collaborate on beginner / intermediate python projects
+- 👋 Hi, I’m @rongachoka, a graduate from GCU where I studied an MSc in Financial Technology (FinTech)
+- 👀 I’m interested in Data Science, Product Development as well as Story Telling through visualisations.
+- 🌱 I’m currently improving my knowledge on advanced SQL techniques as well as working on a solo python project.
+- 💞️ I’m looking to collaborate on data analyst projects
 - 📫 How to reach me (rongachoka.rw@gmail.com)
 
 <!---
